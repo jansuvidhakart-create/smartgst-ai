@@ -1,0 +1,6 @@
+{
+  "name": "SmartGST AI",
+  "description": "Professional medical store billing, batch-wise inventory, expiry tracking, GST invoicing, and pharmacy SaaS software for Indian chemists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
